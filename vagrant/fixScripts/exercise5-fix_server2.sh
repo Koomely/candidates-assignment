@@ -32,3 +32,4 @@ LcUbxTD2GHIPM93jpHpFWP+nXpS7j68zxbIw3wLlxOb3OPGwHm6mKAxDdyL+UVYl
 gC519NXxHj71F8+ppL6tKwbX02cWqA9ZCJ4X5yZbZ2fLGRRmKsWbIAU=
 -----END RSA PRIVATE KEY-----" >> /home/vagrant/.ssh/id_rsa
 
+chmod 600 /home/vagrant/.ssh/id_rsa
